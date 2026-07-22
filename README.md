@@ -1,25 +1,94 @@
-Thanks for downloading this theme!
+# 🍽️ Food Funday Restaurant Website
 
-## Other Useful Links
+## 📖 About the Project
 
-**ThemeWagon** is a great source for downloading free HTML templates built with the latest technology.
+Food Funday Restaurant Website is a responsive restaurant website developed using HTML, CSS, JavaScript, Bootstrap, and PHP. The website allows users to explore the restaurant's menu, gallery, blog, and reserve a table through an attractive and user-friendly interface.
 
-To download free templates, follow this link: https://themewagon.com/theme_tag/free/
+---
 
-Besides that, you can buy our premium templates for making your web development experience unforgettable.
+## ✨ Features
 
-Visit the store from here: https://themewagon.com/theme-categories/premium-templates/
+- Responsive Home Page
+- About Us Section
+- Today's Special Section
+- Restaurant Menu
+- Food Gallery
+- Blog Section
+- Online Table Reservation Form
+- Contact Us Section
+- Responsive Design
+- Smooth Navigation
 
-Alternatively, here's our top most trending and selling items:
+---
 
-* [**Sparrow**](https://themewagon.com/themes/sparrow/) - A multipurpose template made with Bootstrap 4.1 and world's finest animation.
-* [**Posh**](https://themewagon.com/themes/posh-html5-bootstrap-4-template/) - Bootstrap 4 template with a myriad number of ready-to-deploy sections. 
-* [**Elixir**](https://themewagon.com/themes/elixir-elegant-html5-bootstrap-template-consultancy-agency-website/) - Bootstrap 4 agency template. Best for smooth animated scrolling. 
-* [**Freya**](https://themewagon.com/themes/bootstrap-4-premium-interior-design-template-freya/) - Interior design template made with Bootstrap 4. 
-* [**Reign Pro**](https://themewagon.com/themes/reign-pro-premium-corporate-agency-html5-template/) - A corporate template with a visually unique design scheme. 
-* [**Boots4**](https://themewagon.com/themes/first-ever-bootstrap-4-template/) - One of the first Bootstrap 4 templates ever made on earth. 
-* [**Hideaway**](https://themewagon.com/themes/hideaway/) - A template for resorts. Built with Bootstrap 4. 
-* [**Baikal**](https://themewagon.com/themes/bootstrap-4-startup-small-business-website-template/) - A smart Bootstrap template for start-up. 
-* [**Mega Discount**](https://themewagon.com/themes/mega-discount-bundle/) - A bundle of 26 HTML5 templates; best value for your money. 
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- PHP
+- Font Awesome
+- Google Fonts
+
+---
+
+## 📂 Project Structure
+
+```
+Food-Funday-Restaurant/
+│── css/
+│── js/
+│── images/
+│── fonts/
+│── index.html
+│── mail.php
+│── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/PunyaPY2004/Restaurant-Website.git
+```
+
+2. Open the project folder.
+
+3. Open `index.html` in your web browser.
+
+> To use the reservation form, run the project on a local server such as XAMPP or WAMP.
+
+---
+
+## 📚 What I Learned
+
+- Responsive Web Design
+- HTML & CSS Layout Creation
+- Bootstrap Components
+- JavaScript Basics
+- PHP Form Handling
+- Git & GitHub Version Control
+
+---
+
+## 🔮 Future Enhancements
+
+- User Login & Registration
+- Online Food Ordering
+- Payment Gateway Integration
+- Admin Dashboard
+- Database Connectivity
+- Customer Reviews and Ratings
+
+---
+
+## 👩‍💻 Author
+
+**Team Project**
 
 
+---
